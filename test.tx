@@ -1,0 +1,15 @@
+This is a test file for my Artificial Intelligence practice project.
+
+Purpose:
+- Used for testing file reading and writing
+- Helps validate input handling
+- Acts as placeholder text during early development
+
+Sample Data:
+---------------------
+Name: Test User
+Age: 23
+Location: Hyderabad
+Score: 87.5
+
+End of file.
